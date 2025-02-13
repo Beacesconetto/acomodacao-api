@@ -2,25 +2,29 @@
     {
         "id": 1,
         "name": "Hotel Luxo",
-        "city": "Florianópolis",
+        "image": "https://photos.app.goo.gl/SsrqbR9EmWvCcFGJA",
+        "location": "Beira Mar",
         "price": 350
     },
     {
         "id": 2,
         "name": "Pousada Beira-Mar",
-        "city": "Rio de Janeiro",
+        "image": "https://photos.app.goo.gl/qgkxLqt42qE6kLeM9",
+        "location": "Rio de Janeiro",
         "price": 200
     },
     {
         "id": 3,
         "name": "Resort Paraíso",
-        "city": "Florianópolis",
+        "image":"https://photos.app.goo.gl/PbAF5RGEAW6xrkDXA",
+        "location": "Florianópolis",
         "price": 500
     },
     {
         "id": 4,
         "name": "Hostel Econômico",
-        "city": "São Paulo",
+        "image":"https://photos.app.goo.gl/PbAF5RGEAW6xrkDXA",
+        "location": "Campos de Jordão",
         "price": 100
     }
 ]
