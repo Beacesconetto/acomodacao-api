@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Luxo",
+        "city": "Florianópolis",
+        "price": 350
+    },
+    {
+        "id": 2,
+        "name": "Pousada Beira-Mar",
+        "city": "Rio de Janeiro",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "name": "Resort Paraíso",
+        "city": "Florianópolis",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "name": "Hostel Econômico",
+        "city": "São Paulo",
+        "price": 100
+    }
+]
